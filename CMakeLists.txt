@@ -7,6 +7,7 @@ if(NOT Slicer_SOURCE_DIR)
     set(EXTENSION_CATEGORY "Thingiverse")
     set(EXTENSION_CONTRIBUTORS "Nigel Goh (UWA)")
     set(EXTENSION_DESCRIPTION "This is an extension that allows Thingiverse browsing and downloading")
+    set(EXTENSION_ICONURL "https://raw.githubusercontent.com/gohn03/ThingiverseBrowser/master/ThingiverseBrowser.png")
 endif()
 
 #------------------------------------------------------------------------
